@@ -1,4 +1,0 @@
-t a b c
-NOT f c
-OR d e f
-AND e a b
