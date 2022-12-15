@@ -1,0 +1,2 @@
+top_inputs i1 i2
+AND i1 i2
