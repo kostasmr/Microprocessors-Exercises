@@ -1,7 +1,7 @@
 # Microprocessors-Exercises
 
 You can run every exercise in Octave.
-
+In each folder there is the file 'homework' that explains each exercise.
 
 Content of each exercise
 
